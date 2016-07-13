@@ -1,0 +1,2 @@
+# meteorinit
+meteor init
